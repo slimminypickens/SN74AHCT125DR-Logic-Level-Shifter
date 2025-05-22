@@ -14,6 +14,7 @@ Logic Level Shifter for WLED using the SN74AHCT125DR
 - The .csv file also has the bill of materials. I purchased the compnents separately from LCSC https://lcsc.com/ but you can just have JLCPCB place the components and I think might actually work out to be more cost effective once shipping etc is factored in.
 - You don't actually need to connect the ground pin on the output, just FYI (and no +5V on the output side, either!)
 - The WLED wiring guides are super helpful - https://kno.wled.ge/basics/wiring-guides/
+- The gerber file will open in easyEDA if you want to improve the PCB. For some reason I couldn't get it to import to KiCad.
 
 
 
